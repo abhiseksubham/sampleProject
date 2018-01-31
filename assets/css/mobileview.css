@@ -1,0 +1,70 @@
+/*--------------mobile view css---------------*/
+
+@media screen and (max-width:650px)
+{
+ 
+.nwlup-tabcnt
+ {
+  height: 1020px;
+ 
+ }	
+.nwlup-tabcnt .nw-panel
+{
+    margin-bottom:5px;
+}
+.gallery_heading_holder
+ {
+    position: relative;
+	margin-bottom:7px;
+ }
+.home_search_box
+{
+ margin-left:22px;
+}
+.test-mobpart
+{
+display:none;
+}
+.live_dropdown{
+	width: 180px;
+    margin-left: 20px;
+}
+.home_mobile_list{
+	display: none;
+}
+.download_app_button {
+	display: none;
+
+}
+.drawer-menu-item {
+	font-size:15px !important;
+    cursor: pointer;
+}
+.drawer-nav {
+	width:24.25rem !important;
+}
+.drawer--right.drawer-open .drawer-hamburger {
+	right:24.25rem !important;
+}
+.drawer--right.drawer-open .drawer-nav{
+	right:0px !important;
+}
+.drawer--right .drawer-nav {
+	right:-24.25rem !important;
+
+}
+.home_dropdown {
+	position: absolute;
+	top: 14px;
+	left: 10px;
+}
+.mobile_list{
+    display:block !important;
+}
+.input-group{
+	z-index: 1;
+}
+.lui_features {
+	width:120px;
+
+}

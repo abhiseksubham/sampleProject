@@ -1,0 +1,572 @@
+.nwlu-headercnt
+{
+    margin-right:10px;
+    color:white;
+    margin-top:10px;
+    cursor: pointer;
+}
+.nwlu-headercnt a
+{
+color:white;
+margin-top:10px;
+}
+.header-icon
+{
+color:white;
+margin-right:10px;
+margin-top:10px;
+}
+.newlup-formcntrl
+{
+   border-radius: 0px !important; 
+}
+.nlui-title
+{
+	color: white;
+    font-size: 18px;
+    margin-top: 15px;
+}
+.nw-tab-box
+{
+    height: 35px;
+    width: 37px;
+    background-color: #15A7F2;
+    position: absolute;
+    top: 0px;
+    right: 71px;
+}
+.nw-tab-box2
+{
+    height: 35px;
+    width: 37px;
+    background-color: #15A7F2;
+    position: absolute;
+    top: 0px;
+    right: 28px;
+}
+.nw-box-iconcmp
+{
+    text-align: center !important;
+    color: white !important;
+    margin-left: 14px !important;
+    margin-top: 9px !important;
+}
+.nw-box-iconshr
+{
+	text-align: center !important;
+    color: white !important;
+    margin-left: 14px !important;
+    margin-top: 9px !important;
+}
+.nwtabtable
+{
+border-top:none!important;
+    margin-bottom: 0px !important;
+}
+.nwtabtable .legends_values{
+    text-align: left !important;
+}
+.nwtabtable .legends{
+    text-align: right !important;
+    color:#5A6875;
+}
+.nwtabtable.table>tbody>tr>td, .nwtabtable.table>tbody>tr>th, .nwtabtable.table>tfoot>tr>td, .nwtabtable.table>tfoot>tr>th, .nwtabtable.table>thead>tr>td, .nwtabtable.table>thead>tr>th
+{
+text-align:center;
+border:none!important;
+ padding: 3px!important;
+}
+
+/*------------Top Builder Project css starts--------------*/
+.nwlup-heading
+{
+text-align:center;
+}
+.center-icon
+{
+color:#12A8F4;
+font-size:18px;
+}
+.nwlup-headingname
+{
+font-size:18px;
+font-weight:600;
+color:#4C5866;
+margin-bottom:5px;
+}
+.nwlup-subheading
+{
+font-size:16px;
+color:#5A6875;
+}
+
+.newlup-tabs>li.active>a, .newlup-tabs>li.active>a:focus, .newlup-tabs>li.active>a:hover {
+    color: #15A7F2!important;
+    cursor: default;
+    background-color: #fff !important;
+    border-right: 1px solid #15A7F2 !important;
+	border-left: 1px solid #15A7F2 !important;
+    border-top: 3px solid #15A7F2 !important;
+    border-bottom-color: transparent;
+}
+.newlup-tabs>li>a
+{
+   border-radius: 0 !important;
+}
+.nwlup-tabcnt {
+    background: #fff !important;
+    padding: 19px;
+    border-bottom: 1px solid #CCCCCC;
+    border-left: 1px solid #CCCCCC;
+    border-right: 1px solid #CCCCCC;
+    
+	
+}
+ 
+/*------------Localities css starts--------------*/
+.nw-localities
+{
+background-color: #4B5868;
+text-align: center;
+color: white;
+padding: 11px;
+font-size: 16px;
+}
+.nw-localities:hover
+{
+background-color: #12A8F4;
+ cursor: pointer;
+}
+.nw-mt10
+{
+margin-top:10px;
+}
+.nw-paneldefault>.nwpanel-heading
+{
+background-color: white!important;
+border-bottom-color:white!important;
+padding:0px!important;
+    min-height: 121px;
+}
+.nw-paneldefault
+{
+  border-color: #12A8F4!important;
+  
+}
+.nwpanel-headingname
+{
+    border-top-left-radius: 0px!important;
+    border-top-right-radius: 0px!important;
+}
+.nw-panel
+{
+border-radius: 0px!important;
+    margin-bottom: 40px;
+}
+.nwlup-tabcnt .nw-panel{
+    margin-bottom: 15px;
+}
+.nw-outincmg
+{
+   background-color:#12A8F4!important;
+   border:none!important;
+    text-align:left;
+   color:white;
+   font-size:16px;
+    
+}
+ 
+.nw-outincmg.table>tbody>tr>td, .nw-outincmg.table>tbody>tr>th, .nw-outincmg.table>tfoot>tr>td, .nw-outincmg.table>tfoot>tr>th, .nw-outincmg.table>thead>tr>td, .nw-outincmg.table>thead>tr>th
+{
+border-bottom: none!important;
+  padding: 3px!important;  
+
+}
+.nw-featured-namebren
+{
+ font-size:16px;
+ color:white;
+ margin-bottom:5px;
+ text-align:left;
+ position: absolute;
+ top:6px;
+  
+ 
+}
+.nw-featured-namebren:hover{
+    color:#12A8F4;
+}
+.developer_logo{
+    float:right;
+    height:40px;
+}
+.nw-place-name
+{
+font-size:14px;
+color:#5A6875;
+margin-bottom:2px;
+}
+.nw-panelbody
+{
+padding:2px 7px !important;
+}
+.nw-featured-name{
+    margin-bottom: 2px !important;
+}
+/*.nw-paneldefault:hover .nw-panelbody,.nw-paneldefault:hover .nw-featured-name,.nw-paneldefault:hover .nw-place-name
+{
+background-color:#12A8F4!important;
+color:white!important;
+ cursor: pointer;
+ 
+}*/
+.new-liveuplogo
+{
+position: absolute;
+    right: 27px;
+    top: 7px;
+	width:50px;
+	height:50px;
+}
+.nwlup-number
+{
+color:#12A8F4;
+font-size:18px;
+font-weight:600;
+margin-bottom:5px;
+}
+.nwliu_pandefault {
+    width: 428px !important;
+    background: #fff;
+    cursor: pointer;
+    min-height: 80px;
+    margin-bottom: 20px;
+	    margin-left: 79px;
+}
+.nwlu-testmonalimg
+{
+    position:absolute;
+	height: 75px;
+    width: 75px!important;
+    bottom: 14px!important;
+    left: 36px !important;
+}
+.newmtleft
+{
+margin-left: 54px;
+}
+/* MENU CSS */
+.om_loginsignup span a {
+    color: white !important;
+
+}
+
+.om_loginsignup {
+    position: relative;
+    float: right;
+    margin-top: 20px !important;
+    margin-right: 80px;
+}
+.om_loginsignup .menu-dropdown-content li a{
+    color:#3589D2 !important;
+    cursor: pointer;
+}
+.select_city{
+    cursor: pointer;
+}
+.top_nav_bar{
+    margin:24px 0px;
+    text-align: center;
+}
+.menu-dropdown-content{
+    position: absolute;
+    width:150px;
+    background-color: #fff;
+    text-align: left;
+    padding-left: 5px;
+    line-height: 30px;
+    display: none;
+}
+.navbar_new {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    right: 20px;
+    z-index: 100;
+}
+
+.navNew {
+    position: absolute;
+    right:-22px;
+    text-align: right;
+    height: 50px;
+    border-radius: 50%;
+    background-color: transparent;
+    color: rgba(0, 0, 0, 0.87);
+    overflow: hidden;
+    color:#fff;
+    transition: all 0.3s ease 0s;
+    -webkit-transition: all 0.3s ease 0s;
+    /*
+    -webkit-clip-path: circle(24px at 175px 30px);
+    clip-path: circle(24px at 175px 30px);
+    -webkit-transition: -webkit-clip-path 0.5625s, clip-path 0.375s;
+    transition: -webkit-clip-path 0.5625s, clip-path 0.375s;
+   */
+}
+
+.navNew:hover {
+    width:200px;
+    height:190px;
+    border-radius: 0%;
+    background-color: white;
+    color:#000;
+    /*
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+    -webkit-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+    -webkit-clip-path: circle(390px at 225px 24px);
+    clip-path: circle(390px at 150px 24px);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.26), 0px 4px 8px 0px rgba(0, 0, 0, 0.22);
+    */
+}
+.navNew:hover .navicon i:before{
+    content: '\f00d' !important;
+}
+
+.navNew .menu_item {
+    position: relative;
+    display: block;
+    line-height: 40px;
+    padding: 0 20px;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+}
+
+.navNew .menu_item:hover {
+    background-color: #f7fbff;
+}
+
+.navNew a.menu_item:hover:after {
+    width: 100%;
+}
+
+.navNew a.menu_item:after {
+    position: absolute;
+    content: "";
+    width: 0%;
+    height: 1px;
+    background: #ff751c;
+    left: 0px;
+    bottom: 0px;
+    transition: all 0.3s ease 0s;
+    -webkit-transition: all 0.3s ease 0s;
+}
+
+.navicon {
+    padding: 19px 19px 19px 0px;
+    cursor: pointer;
+    -webkit-transform-origin: 32px 24px;
+    -ms-transform-origin: 32px 24px;
+    transform-origin: 32px 24px;
+}
+
+.navicon div {
+    position: relative;
+    width: 20px;
+    height: 2px;
+    background: rgba(0, 0, 0, 0.87);
+}
+
+.navicon div:before,
+.navicon div:after {
+    display: block;
+    content: "";
+    width: 20px;
+    height: 2px;
+    background: rgba(0, 0, 0, 0.87);
+    position: absolute;
+}
+
+.navicon div:before {
+    top: -7px;
+}
+
+.navicon div:after {
+    top: 7px;
+}
+.download_app_button{
+    position: relative;
+}
+.download_app_button:hover .download_app_box{
+    display: block;
+}
+.download_app_box
+{
+    position: absolute;
+    width: 400px;
+    height: 185px;
+    z-index: 10000;
+    background-color: #fff;
+    display: none;
+}
+
+/* MENU CSS ENDS */
+/*.......................footer begins......................*/
+
+.nwlup-footerheading
+{
+color:white;
+font-size:18px;
+}
+.nwlup-footercnt
+{
+color:#A8A8A8;
+text-align:justify;
+}
+.nwftcnt
+{
+color:#A8A8A8;
+margin-bottom:20px;
+}
+
+.home_search_box_holder input,.home_search_box_holder button,.home_search_box_holder select{
+    
+    border-radius: 4px !important;
+}
+.home_search_box_holder{
+position:absolute;
+bottom:0px;
+    margin-bottom: 10px;
+    border-radius: 5px; 
+    padding:15px;
+}
+.home_search_box_holder .lup_signup{
+    background-color: #FBDB74 !important;
+    border-color:#FBDB74 !important;
+    color:#000 !important;
+}
+.home_search_box_holder .lup_signup.search_map{
+    margin-top:8px;
+    background-color: #056991 !important;
+    border-color:#056991 !important;
+    color:#fff !important;
+}
+
+.sp-imgnam {
+    position: absolute;
+    color: white;
+    left: 0px;
+    transition: all 0.3s ease;
+    width: 100%;
+    overflow: hidden;
+    bottom: 0px;
+    height: 40px;
+    line-height: 40px;
+    padding-left: 10px;
+    font-size: 20px;
+    text-align: left;
+    background-color: rgba(0,0,0,0.5);
+    text-align: center;
+}
+
+.gallery_heading_holder{
+    position: relative;
+}
+.gallery_heading_holder img{
+    width:100%;
+    height:200px;
+}
+.gallery_main:hover .sp-imgnam{
+	height:100%;
+	text-align:center;
+}
+.gallery_main img.developer_background{
+    width:100%;
+    height:200px;
+}
+.gallery_headings .nw-projectname{
+    font-size:18px;
+
+}
+.gallery_headings{
+    position: absolute;
+    bottom:0px;
+    width: 100%;
+    background-image:url('../images/heading_background.png');
+    background-position: bottom;
+    background-repeat: repeat-x;
+    padding:15px 10px 5px 10px;
+    color:#fff;
+}
+
+
+.sp-imgnam .overlay_text {
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+}
+.valign-wrapper 
+{
+    height: 90%;
+    font-size: 17px;
+	float:left;
+	margin-left:23px;
+}
+.liveup-marg:hover a{
+    color:#FBDB74;
+}
+.liveup-marg
+{
+    text-align:left;
+margin-top:5px;
+line-height: 20px;
+    cursor: pointer;
+}
+.liveup-marg a{color:#fff;}
+.pop-cir
+{
+height:70px;
+width:70px;
+border-radius:50%;
+ 
+margin:0 auto;
+}
+
+/* CSS MODIFICATION */
+
+.shadow-hover {
+    box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.16), 0 0px 0px 0 rgba(0, 0, 0, 0.12);
+    transition: all 0.30s ease;
+}
+
+.shadow-hover:hover {
+    box-shadow: 0 16px 28px 0 rgba(0,0,0,0.22),0 25px 55px 0 rgba(0,0,0,0.21);
+    z-index: 1000;
+}
+
+.panel-default td,.panel-default th{
+    border-bottom-left-radius:0px !important;
+    border-bottom-right-radius:0px !important;
+	text-align:left;
+}
+
+.footer_social_media{
+    text-align: center;
+}
+.footer_social_media img{
+    width:25px;
+}
+.lv-signtex
+{
+text-align:center;
+}
+ 
+.liv-gogpl-martop
+{
+    margin-top: 38px!important;
+}

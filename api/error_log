@@ -1,0 +1,19 @@
+[05-Feb-2016 13:16:19 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/creatmlt/public_html/liveupindia.com/api/outboundcall.php on line 5
+[05-Feb-2016 13:19:22 Etc/GMT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/creatmlt/public_html/liveupindia.com/api/outboundcall.php on line 5
+[05-Feb-2016 13:20:16 Etc/GMT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/creatmlt/public_html/liveupindia.com/api/outboundcall.php on line 5
+[05-Feb-2016 13:20:48 Etc/GMT] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/creatmlt/public_html/liveupindia.com/api/outboundcall.php on line 5
+[05-Feb-2016 13:21:33 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/creatmlt/public_html/liveupindia.com/api/outboundcall.php on line 6
+[05-Feb-2016 13:29:00 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/creatmlt/public_html/liveupindia.com/api/outboundcall.php on line 9
+[05-Feb-2016 13:30:39 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/creatmlt/public_html/liveupindia.com/api/outboundcall.php on line 9
+[05-Feb-2016 13:36:03 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/creatmlt/public_html/liveupindia.com/api/outboundcall.php on line 9
+[05-Feb-2016 13:46:12 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/creatmlt/public_html/liveupindia.com/api/outboundcall.php on line 9
+[05-Feb-2016 14:47:20 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/creatmlt/public_html/liveupindia.com/api/outboundcall.php on line 9
+[05-Feb-2016 14:48:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/creatmlt/public_html/liveupindia.com/api/outboundcall.php on line 9
+[06-Feb-2016 08:01:15 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/creatmlt/public_html/liveupindia.com/api/outboundcall.php on line 9
+[06-Feb-2016 09:33:23 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/creatmlt/public_html/liveupindia.com/api/outboundcall.php on line 9
+[06-Feb-2016 11:12:13 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/creatmlt/public_html/liveupindia.com/api/outboundcall.php on line 9
+[26-Aug-2016 16:09:40 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/creatmlt/public_html/liveupindia.com/api/outboundcall.php on line 9
+[12-Oct-2016 11:34:43 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Nov-2016 09:18:52 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[06-Dec-2016 07:13:20 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[17-Feb-2017 10:45:18 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0

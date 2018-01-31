@@ -1,0 +1,111 @@
+
+ 
+
+.lui_signup .fullwidth,
+body#bp-default #wp-admin-bar .padder {
+	width: 100% !important;
+	max-width: 10000px !important;
+	min-width: 960px;
+	margin: 0 auto;
+	clear:both; 
+    float: left;
+}
+
+
+
+.lui_signup  .form-group.focused .control-label {
+    opacity: 1;
+    -webkit-transform: scale(0.75);
+    -moz-transform: scale(0.75);
+    transform: scale(0.75);
+    color: #03A9F4 !important;
+}
+
+.lui_signup .form-control {
+    align-self: flex-end;
+}
+
+.lui_signup #textbox { width: 50%; max-height: 100%; height: 100%; overflow: hidden; margin-left: 50%; position: absolute; box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);}
+.lui_signup .toplam { width: 200%; height: 100%; position: relative; left: 0;   left: -100%;}
+.lui_signup .left { width: 50%; height: 100%; background: #F9F9F9;  left: 0; position: absolute;}
+.lui_signup .right { width: 50%; height: 100%; background: #F9F9F9; right: 0; position: absolute;}
+.lui_signup #ic { width: 250px; margin: 0 auto; top: 30%; margin-top: -115px; position: absolute;
+  left: 50%; margin-left: -125px;padding:0px 6px;}
+.lui_signup .left #ic { margin-top: -200px;padding:0px 6px;}
+.lui_signup #ic p {  font-size: 15px; font-weight: 400; line-height: 26px; color: #757575; margin-bottom: 11px;}
+
+
+.lui_signup #girisyap .form-group { width: 100%; float: left; margin-bottom: 10px;}
+.lui_signup #girisyap h2 { font-size: 28px; font-weight: 400; color: #0BAFBF; line-height: 35px; }
+.lui_signup #girisyap .soninpt { margin-bottom: 30px; }
+
+.lui_signup .left .control-label { color: #959595; }
+.lui_signup .left .yarim { width: 46% !important; float: left; margin-right: 8%; }
+.lui_signup .left .sn { margin-right: 0;}
+
+
+.lui_signup form#girisyap .girisbtn{   width: auto;
+  float: right;
+  background: #03A9F4;
+  padding: 10px 16px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 600;
+  color: #fff;
+  margin: 0 !important;
+  line-height: 16px;
+  font-family: Roboto;
+  text-transform: uppercase;
+  max-height: 36px;
+  height: 36px;
+  letter-spacing: 0.5px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  -webkit-box-shadow: 0 2px 6px rgba(0,0,0,0.1), 0 3px 6px rgba(0,0,0,0.1);
+  -moz-box-shadow: 0 2px 6px rgba(0,0,0,0.1), 0 3px 6px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1), 0 3px 6px rgba(0,0,0,0.1);
+  -webkit-transition-duration: 0.25s;
+  transition-duration: 0.25s;
+  -webkit-transition-property: background-color,-webkit-box-shadow;
+  transition-property: background-color,box-shadow;
+  border: 0; }
+
+.lui_signup form#girisyap .girisbtn:hover{ background: #0288D1;  -webkit-box-shadow: 0 4px 7px rgba(0,0,0,0.1), 0 3px 6px rgba(0,0,0,0.1); -moz-box-shadow: 0 4px 7px rgba(0,0,0,0.1), 0 3px 6px rgba(0,0,0,0.1); box-shadow: 0 4px 7px rgba(0,0,0,0.1), 0 3px 6px rgba(0,0,0,0.1);}
+/*
+.lui_signup #moveleft, #moveright{ 
+    width: auto;
+  float: right;
+  background: none;
+  padding: 10px 16px;
+  font-family: Roboto;
+  font-size: 14px;
+  color: #03A9F4;
+  font-weight: 600;
+  margin: 0 10px !important;
+  line-height: 16px;
+  text-transform: uppercase;
+  cursor: pointer;
+  max-height: 36px;
+  height: 36px;
+  letter-spacing: 0.5px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  -webkit-transition-duration: 0.25s;
+  transition-duration: 0.25s;
+  -webkit-transition-property: background-color;
+  transition-property: background-color;
+  border: 0; 
+  outline: 0;
+}
+.lui_signup #moveleft:hover { background: #eee; }
+.lui_signup #moveright:hover { background: #363A3D; }
+*/
+.lui_signup #moveleft, #moveright{
+    cursor: pointer;
+}
+.lui_signup #fback { width: 100%; height: 100%; position: absolute; z-index: -9999; }
+.lui_signup .girisback { position: absolute; right: 0; width: 50%; height: 100%; background-image: url(../images/Signup1.jpg); background-size: cover; background-position: 50% 50%;}
+.lui_signup .kayitback { position: absolute; left: 0; width: 50%; height: 100%; background-image: url(../images/singin.jpg); background-size: cover; background-position: 50% 50%;}
+
